@@ -10,4 +10,4 @@ i'm interested in Fluent udf code and any simulation code for particle depositio
 i use C/C++ as my basic programming language,and also knew VB,MATLAB,plus a little JAVASCRIPT.
 at future,my work will focus on the coupled simulation between Fluent and EDEM.
 if you are good at EDEM, please email me at anytime,i'm eager to receive your email and weclome you to attend the conference setting at China.
-wish you have good day.
+wish you have a good day.
